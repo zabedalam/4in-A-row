@@ -1,0 +1,10 @@
+C:\Users\Mohammad\source\repos\GameofFour\GameofFour\bin\Debug\GameofFour.exe.config
+C:\Users\Mohammad\source\repos\GameofFour\GameofFour\bin\Debug\GameofFour.exe
+C:\Users\Mohammad\source\repos\GameofFour\GameofFour\bin\Debug\GameofFour.pdb
+C:\Users\Mohammad\source\repos\GameofFour\GameofFour\obj\Debug\GameofFour.Form1.resources
+C:\Users\Mohammad\source\repos\GameofFour\GameofFour\obj\Debug\GameofFour.Properties.Resources.resources
+C:\Users\Mohammad\source\repos\GameofFour\GameofFour\obj\Debug\GameofFour.csproj.GenerateResource.cache
+C:\Users\Mohammad\source\repos\GameofFour\GameofFour\obj\Debug\GameofFour.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\GameofFour\GameofFour\obj\Debug\GameofFour.exe
+C:\Users\Mohammad\source\repos\GameofFour\GameofFour\obj\Debug\GameofFour.pdb
+C:\Users\Mohammad\source\repos\GameofFour\GameofFour\obj\Debug\GameofFour.csprojAssemblyReference.cache
